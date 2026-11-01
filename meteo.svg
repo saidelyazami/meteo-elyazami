@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="820" font-family="Arial, sans-serif">
+  <g transform="translate(0, 0)">
+    <text x="370" y="30" font-size="18" font-weight="bold" text-anchor="middle">
+                Températures du 2006-1-1</text>
+    <line x1="40" y1="340" x2="720" y2="340" stroke="black"/>
+    <line x1="40" y1="340" x2="40" y2="30" stroke="black"/>
+    <text x="35" y="40" font-size="11" text-anchor="end">30°</text>
+    <text x="35" y="190" font-size="11" text-anchor="end">15°</text>
+    <text x="35" y="344" font-size="11" text-anchor="end">0°</text>
+    <rect x="60" y="340" width="50" height="0" fill="#e67e22">
+      <animate attributeName="height" from="0" to="220" begin="0s" dur="1s" fill="freeze"/>
+      <animate attributeName="y" from="340" to="120" begin="0s" dur="1s" fill="freeze"/>
+      <title>Casa : 22 °C</title>
+    </rect>
+    <text x="85" y="114" font-size="13" text-anchor="middle" opacity="0">22°
+                    <animate attributeName="opacity" from="0" to="1" begin="1s" dur="0.4s" fill="freeze"/></text>
+    <text x="85" y="360" font-size="12" text-anchor="middle">Casa</text>
+    <rect x="140" y="340" width="50" height="0" fill="#e67e22">
+      <animate attributeName="height" from="0" to="200" begin="0.2s" dur="1s" fill="freeze"/>
+      <animate attributeName="y" from="340" to="140" begin="0.2s" dur="1s" fill="freeze"/>
+      <title>Rabat : 20 °C</title>
+    </rect>
+    <text x="165" y="134" font-size="13" text-anchor="middle" opacity="0">20°
+                    <animate attributeName="opacity" from="0" to="1" begin="1.2s" dur="0.4s" fill="freeze"/></text>
+    <text x="165" y="360" font-size="12" text-anchor="middle">Rabat</text>
+    <rect x="220" y="340" width="50" height="0" fill="#e67e22">
+      <animate attributeName="height" from="0" to="180" begin="0.4s" dur="1s" fill="freeze"/>
+      <animate attributeName="y" from="340" to="160" begin="0.4s" dur="1s" fill="freeze"/>
+      <title>Fes : 18 °C</title>
+    </rect>
+    <text x="245" y="154" font-size="13" text-anchor="middle" opacity="0">18°
+                    <animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="0.4s" fill="freeze"/></text>
+    <text x="245" y="360" font-size="12" text-anchor="middle">Fes</text>
+    <rect x="300" y="340" width="50" height="0" fill="#e67e22">
+      <animate attributeName="height" from="0" to="190" begin="0.6s" dur="1s" fill="freeze"/>
+      <animate attributeName="y" from="340" to="150" begin="0.6s" dur="1s" fill="freeze"/>
+      <title>Oujda : 19 °C</title>
+    </rect>
+    <text x="325" y="144" font-size="13" text-anchor="middle" opacity="0">19°
+                    <animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="0.4s" fill="freeze"/></text>
+    <text x="325" y="360" font-size="12" text-anchor="middle">Oujda</text>
+    <rect x="380" y="340" width="50" height="0" fill="#e67e22">
+      <animate attributeName="height" from="0" to="250" begin="0.8s" dur="1s" fill="freeze"/>
+      <animate attributeName="y" from="340" to="90" begin="0.8s" dur="1s" fill="freeze"/>
+      <title>Tanger : 25 °C</title>
+    </rect>
+    <text x="405" y="84" font-size="13" text-anchor="middle" opacity="0">25°
+                    <animate attributeName="opacity" from="0" to="1" begin="1.8s" dur="0.4s" fill="freeze"/></text>
+    <text x="405" y="360" font-size="12" text-anchor="middle">Tanger</text>
+    <rect x="460" y="340" width="50" height="0" fill="#e67e22">
+      <animate attributeName="height" from="0" to="280" begin="1s" dur="1s" fill="freeze"/>
+      <animate attributeName="y" from="340" to="60" begin="1s" dur="1s" fill="freeze"/>
+      <title>Marrakech : 28 °C</title>
+    </rect>
+    <text x="485" y="54" font-size="13" text-anchor="middle" opacity="0">28°
+                    <animate attributeName="opacity" from="0" to="1" begin="2s" dur="0.4s" fill="freeze"/></text>
+    <text x="485" y="360" font-size="12" text-anchor="middle">Marrakech</text>
+    <rect x="540" y="340" width="50" height="0" fill="#e67e22">
+      <animate attributeName="height" from="0" to="290" begin="1.2s" dur="1s" fill="freeze"/>
+      <animate attributeName="y" from="340" to="50" begin="1.2s" dur="1s" fill="freeze"/>
+      <title>Ouarzazat : 29 °C</title>
+    </rect>
+    <text x="565" y="44" font-size="13" text-anchor="middle" opacity="0">29°
+                    <animate attributeName="opacity" from="0" to="1" begin="2.2s" dur="0.4s" fill="freeze"/></text>
+    <text x="565" y="360" font-size="12" text-anchor="middle">Ouarzazat</text>
+    <rect x="620" y="340" width="50" height="0" fill="#e67e22">
+      <animate attributeName="height" from="0" to="200" begin="1.4s" dur="1s" fill="freeze"/>
+      <animate attributeName="y" from="340" to="140" begin="1.4s" dur="1s" fill="freeze"/>
+      <title>Agadir : 20 °C</title>
+    </rect>
+    <text x="645" y="134" font-size="13" text-anchor="middle" opacity="0">20°
+                    <animate attributeName="opacity" from="0" to="1" begin="2.4s" dur="0.4s" fill="freeze"/></text>
+    <text x="645" y="360" font-size="12" text-anchor="middle">Agadir</text>
+  </g>
+  <g transform="translate(0, 400)">
+    <text x="370" y="30" font-size="18" font-weight="bold" text-anchor="middle">
+                Températures du 2006-1-2</text>
+    <line x1="40" y1="340" x2="720" y2="340" stroke="black"/>
+    <line x1="40" y1="340" x2="40" y2="30" stroke="black"/>
+    <text x="35" y="40" font-size="11" text-anchor="end">30°</text>
+    <text x="35" y="190" font-size="11" text-anchor="end">15°</text>
+    <text x="35" y="344" font-size="11" text-anchor="end">0°</text>
+    <rect x="60" y="340" width="50" height="0" fill="#2e86c1">
+      <animate attributeName="height" from="0" to="210" begin="0s" dur="1s" fill="freeze"/>
+      <animate attributeName="y" from="340" to="130" begin="0s" dur="1s" fill="freeze"/>
+      <title>Casa : 21 °C</title>
+    </rect>
+    <text x="85" y="124" font-size="13" text-anchor="middle" opacity="0">21°
+                    <animate attributeName="opacity" from="0" to="1" begin="1s" dur="0.4s" fill="freeze"/></text>
+    <text x="85" y="360" font-size="12" text-anchor="middle">Casa</text>
+    <rect x="140" y="340" width="50" height="0" fill="#2e86c1">
+      <animate attributeName="height" from="0" to="230" begin="0.2s" dur="1s" fill="freeze"/>
+      <animate attributeName="y" from="340" to="110" begin="0.2s" dur="1s" fill="freeze"/>
+      <title>Rabat : 23 °C</title>
+    </rect>
+    <text x="165" y="104" font-size="13" text-anchor="middle" opacity="0">23°
+                    <animate attributeName="opacity" from="0" to="1" begin="1.2s" dur="0.4s" fill="freeze"/></text>
+    <text x="165" y="360" font-size="12" text-anchor="middle">Rabat</text>
+    <rect x="220" y="340" width="50" height="0" fill="#2e86c1">
+      <animate attributeName="height" from="0" to="190" begin="0.4s" dur="1s" fill="freeze"/>
+      <animate attributeName="y" from="340" to="150" begin="0.4s" dur="1s" fill="freeze"/>
+      <title>Fes : 19 °C</title>
+    </rect>
+    <text x="245" y="144" font-size="13" text-anchor="middle" opacity="0">19°
+                    <animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="0.4s" fill="freeze"/></text>
+    <text x="245" y="360" font-size="12" text-anchor="middle">Fes</text>
+    <rect x="300" y="340" width="50" height="0" fill="#2e86c1">
+      <animate attributeName="height" from="0" to="200" begin="0.6s" dur="1s" fill="freeze"/>
+      <animate attributeName="y" from="340" to="140" begin="0.6s" dur="1s" fill="freeze"/>
+      <title>Oujda : 20 °C</title>
+    </rect>
+    <text x="325" y="134" font-size="13" text-anchor="middle" opacity="0">20°
+                    <animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="0.4s" fill="freeze"/></text>
+    <text x="325" y="360" font-size="12" text-anchor="middle">Oujda</text>
+    <rect x="380" y="340" width="50" height="0" fill="#2e86c1">
+      <animate attributeName="height" from="0" to="230" begin="0.8s" dur="1s" fill="freeze"/>
+      <animate attributeName="y" from="340" to="110" begin="0.8s" dur="1s" fill="freeze"/>
+      <title>Tanger : 23 °C</title>
+    </rect>
+    <text x="405" y="104" font-size="13" text-anchor="middle" opacity="0">23°
+                    <animate attributeName="opacity" from="0" to="1" begin="1.8s" dur="0.4s" fill="freeze"/></text>
+    <text x="405" y="360" font-size="12" text-anchor="middle">Tanger</text>
+    <rect x="460" y="340" width="50" height="0" fill="#2e86c1">
+      <animate attributeName="height" from="0" to="270" begin="1s" dur="1s" fill="freeze"/>
+      <animate attributeName="y" from="340" to="70" begin="1s" dur="1s" fill="freeze"/>
+      <title>Marrakech : 27 °C</title>
+    </rect>
+    <text x="485" y="64" font-size="13" text-anchor="middle" opacity="0">27°
+                    <animate attributeName="opacity" from="0" to="1" begin="2s" dur="0.4s" fill="freeze"/></text>
+    <text x="485" y="360" font-size="12" text-anchor="middle">Marrakech</text>
+    <rect x="540" y="340" width="50" height="0" fill="#2e86c1">
+      <animate attributeName="height" from="0" to="250" begin="1.2s" dur="1s" fill="freeze"/>
+      <animate attributeName="y" from="340" to="90" begin="1.2s" dur="1s" fill="freeze"/>
+      <title>Ouarzazat : 25 °C</title>
+    </rect>
+    <text x="565" y="84" font-size="13" text-anchor="middle" opacity="0">25°
+                    <animate attributeName="opacity" from="0" to="1" begin="2.2s" dur="0.4s" fill="freeze"/></text>
+    <text x="565" y="360" font-size="12" text-anchor="middle">Ouarzazat</text>
+    <rect x="620" y="340" width="50" height="0" fill="#2e86c1">
+      <animate attributeName="height" from="0" to="230" begin="1.4s" dur="1s" fill="freeze"/>
+      <animate attributeName="y" from="340" to="110" begin="1.4s" dur="1s" fill="freeze"/>
+      <title>Agadir : 23 °C</title>
+    </rect>
+    <text x="645" y="104" font-size="13" text-anchor="middle" opacity="0">23°
+                    <animate attributeName="opacity" from="0" to="1" begin="2.4s" dur="0.4s" fill="freeze"/></text>
+    <text x="645" y="360" font-size="12" text-anchor="middle">Agadir</text>
+  </g>
+</svg>

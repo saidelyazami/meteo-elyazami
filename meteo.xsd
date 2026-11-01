@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:element name="meteo">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="mesure" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="ville" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:attribute name="nom" type="xs:string" use="required"/>
+                                    <xs:attribute name="temperature" type="xs:integer" use="required"/>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                        <!-- Les dates du sujet sont au format 2006-1-1 (sans zéro),
+                             ce qui n'est pas un xs:date : on utilise donc un motif. -->
+                        <xs:attribute name="date" use="required">
+                            <xs:simpleType>
+                                <xs:restriction base="xs:string">
+                                    <xs:pattern value="[0-9]{4}-[0-9]{1,2}-[0-9]{1,2}"/>
+                                </xs:restriction>
+                            </xs:simpleType>
+                        </xs:attribute>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>
