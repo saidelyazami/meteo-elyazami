@@ -1,6 +1,5 @@
-# Météo — Technologie XML
 
-Partie 4 : mesures des températures de différentes villes à une date donnée.
+# # # Météo — Technologie XML : Mesures des températures de différentes villes à une date donnée.
 
 | Fichier | Rôle |
 |---|---|
